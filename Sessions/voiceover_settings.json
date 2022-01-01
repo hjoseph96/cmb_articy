@@ -1,0 +1,16 @@
+{
+  "SelectedOutputFormat": 1,
+  "AssetReferencePropertyName": "VO.VOFile",
+  "VoiceOverFileNameFormatDefault": "%ParentDisplayName%_%DisplayName%",
+  "VoiceOverFileNameFormatDialogueFragment": "%ParentDisplayName%_%SpeakerDisplayName%_%ParentIndex%_%ShortId%",
+  "AutoplayReferencedAssetsInJourneys": true,
+  "ExportVoiceOverExcelSheet": true,
+  "PreviousColumnMode": 0,
+  "TargetAssetFolderId": 72057594037940783,
+  "VoiceOverSheetOutputPath": "C:\\Users\\godkingherb\\Documents\\Codename_MysteryBabylon.xlsx",
+  "VoiceOverSheetTraversal": 0,
+  "HasNoErrors": true,
+  "LastUsedReimportPath": null,
+  "LastUsedExportPath": null,
+  "Error": ""
+}
